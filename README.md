@@ -1,3 +1,12 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/coodingpenguin/introducing-python">
+    <img src="logo.png" alt="Logo" width="128">
+  </a>
+  <h3 style='border: none; margin-bottom: 5px;'>Introducing Python</h2>
+</div>
+
 # <처음 시작하는 파이썬> 정리
 
 [처음 시작하는 파이썬](http://www.yes24.com/Product/Goods/91870652)의 코드와 연습문제를 정리한 Repository입니다.
