@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="http://www.yes24.com/Product/Goods/91870652">
-    <img src="logo.png" alt="Logo" width="128">
+    <img style="border: 1px solid black" src="logo.png" alt="Logo" width="128">
   </a>
   <h3>처음 시작하는 파이썬 2판</h3>
   <small>✒ Written by <b>Bill Lubanovic</b></small>
