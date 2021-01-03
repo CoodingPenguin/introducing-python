@@ -6,6 +6,6 @@ books = [
     ['Lynne Truss', 'Eats, Shoots & Leaves']
 ]
 
-with open('books1.csv', 'wt') as fout:
+with open('./ch16/practice/books1.csv', 'wt') as fout:
     csvout = csv.writer(fout)
     csvout.writerows(books)
