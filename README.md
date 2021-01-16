@@ -18,6 +18,8 @@
 
 ## ✅ 공부일지
 
+> **`2021.01.16`** 1회독 완료!
+
 > 1회독 후 **9, 10, 11장** 복습 예정
 
 | 챕터 |             제목             | 공부 날짜 |
@@ -44,7 +46,7 @@
 |  20  |          파이 아트           |  2021.01  |
 |  21  |        파이 비즈니스         |  2021.01  |
 |  22  |          파이 과학           |  2021.01  |
-|      |           Appendix           |           |
+|      |           Appendix           |  2021.01  |
 
 <details markdown="1">
 <summary><strong>👀 자세히 보기</strong></summary>
@@ -289,10 +291,10 @@
 |    22.8    |             다음 장에서는              |     ✔     |
 |    22.9    |                연습문제                |     ✔     |
 |            |                                        |           |
-| Appendix A |         하드웨어와 소프트웨어          |           |
-| Appendix B |             파이썬 3 설치              |           |
-| Appendix C |         완전히 다른 것: Async          |           |
-| Appendix D |             연습문제 정답              |           |
-| Appendix E |               커닝페이퍼               |           |
+| Appendix A |         하드웨어와 소프트웨어          |     ✔     |
+| Appendix B |             파이썬 3 설치              |     ✔     |
+| Appendix C |         완전히 다른 것: Async          |     ✔     |
+| Appendix D |             연습문제 정답              |     ✔     |
+| Appendix E |               커닝페이퍼               |     ✔     |
 
 </details>
