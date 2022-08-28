@@ -1,20 +1,25 @@
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="http://www.yes24.com/Product/Goods/91870652">
-    <img src="logo.png" alt="Logo" width="200">
+      <img src="logo.png" alt="Logo" width="200">
   </a>
-  <h3>처음 시작하는 파이썬 2판</h3>
-  <small>✍ Written by <b>Bill Lubanovic</b></small>
-  <br />
-  <small>📆 Studying <b>2020.10 ~ 2021.01</b></small>
+  <h1>처음 시작하는 파이썬 2판</h1>
+  <div>
+    <img src="https://img.shields.io/badge/저자-빌%20루바노빅-e76f51?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/출판사-한빛미디어-faa307?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/기간-2020.10%20~%2021.01-52b788?style=for-the-badge"/>
+  </div>
 </div>
-
-<br />
 
 ---
 
-## ✅ 공부일지
+## ✅ CheckLists
+
+- [ ] 실습하면서 책 1회독하기
+- [ ] 블로그에 책 리뷰 남기기
+
+---
+
+## 👩‍💻 Study Notes
 
 | 챕터 |             제목             | 공부 날짜 |
 | :--: | :--------------------------: | :-------: |
