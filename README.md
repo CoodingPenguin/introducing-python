@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/저자-빌%20루바노빅-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/출판사-한빛미디어-faa307?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/기간-2020.10%20~%2021.01-52b788?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/기간-2020.10%20~%202021.01-52b788?style=for-the-badge"/>
   </div>
 </div>
 
